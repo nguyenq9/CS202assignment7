@@ -1,0 +1,16 @@
+/* Show it's not fixed to the top */
+body {
+    min-height: 75rem;
+
+}
+.imagebox {
+    display: grid;
+    height: 100%;
+}
+#image1{
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+
+}
+  
